@@ -41,5 +41,5 @@ A complete end-to-end analytics project using SQL Server for data processing and
 - README.md — Project documentation
 
 ## Author
-E Hebee
+E Hebee |
 Data Analyst | SQL | Power BI | Data Visualization
