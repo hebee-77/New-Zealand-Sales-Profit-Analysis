@@ -1,0 +1,500 @@
+Order_ID,Product,Category,Region,Sales,Profit,Order_Date
+NZ-ORD-1,Product-18,Home Decor,Christchurch,592.38,469.62,2023-01-01
+NZ-ORD-2,Product-27,Toys,Wellington,1397.1,358.07,2023-01-02
+NZ-ORD-3,Product-5,Home Decor,Auckland,1515.86,201.53,2023-01-03
+NZ-ORD-4,Product-26,Electronics,Auckland,1338.42,-88.58,2023-01-04
+NZ-ORD-5,Product-16,Home Decor,Wellington,481.89,120.28,2023-01-05
+NZ-ORD-6,Product-14,Electronics,Wellington,1379.39,23.09,2023-01-06
+NZ-ORD-7,Product-26,Electronics,Christchurch,1324.24,393.75,2023-01-07
+NZ-ORD-8,Product-1,Electronics,Auckland,140.43,-18.02,2023-01-08
+NZ-ORD-9,Product-22,Home Decor,Wellington,1948.69,124.68,2023-01-09
+NZ-ORD-10,Product-15,Electronics,Wellington,632.38,90.12,2023-01-10
+NZ-ORD-11,Product-12,Books,Christchurch,1504.97,84.33,2023-01-11
+NZ-ORD-12,Product-9,Books,Dunedin,1717.59,180.69,2023-01-12
+NZ-ORD-13,Product-21,Electronics,Hamilton,1984.1,-68.16,2023-01-13
+NZ-ORD-14,Product-23,Clothing,Wellington,813.57,420.5,2023-01-14
+NZ-ORD-15,Product-21,Clothing,Christchurch,980.56,22.94,2023-01-15
+NZ-ORD-16,Product-5,Home Decor,Wellington,1044.35,189.07,2023-01-16
+NZ-ORD-17,Product-26,Books,Hamilton,1703.89,5.42,2023-01-17
+NZ-ORD-18,Product-16,Home Decor,Wellington,1068.13,28.57,2023-01-18
+NZ-ORD-19,Product-9,Home Decor,Dunedin,230.45,165.51,2023-01-19
+NZ-ORD-20,Product-28,Toys,Hamilton,1983.13,236.56,2023-01-20
+NZ-ORD-21,Product-3,Clothing,Dunedin,1412.79,213.49,2023-01-21
+NZ-ORD-22,Product-7,Books,Wellington,1497.35,458.08,2023-01-22
+NZ-ORD-23,Product-22,Clothing,Auckland,1454.58,168.36,2023-01-23
+NZ-ORD-24,Product-10,Books,Hamilton,1492.82,-41.9,2023-01-24
+NZ-ORD-25,Product-30,Electronics,Auckland,1891.48,157.77,2023-01-25
+NZ-ORD-26,Product-11,Toys,Dunedin,66.05,160.57,2023-01-26
+NZ-ORD-27,Product-29,Clothing,Dunedin,1038.45,263.19,2023-01-27
+NZ-ORD-28,Product-21,Home Decor,Christchurch,1954.62,-44.14,2023-01-28
+NZ-ORD-29,Product-29,Home Decor,Wellington,1558.92,270.16,2023-01-29
+NZ-ORD-30,Product-22,Electronics,Hamilton,1164.95,-3.24,2023-01-30
+NZ-ORD-31,Product-7,Toys,Auckland,1496.33,396.77,2023-01-31
+NZ-ORD-32,Product-27,Clothing,Christchurch,339.2,202.58,2023-02-01
+NZ-ORD-33,Product-29,Clothing,Dunedin,202.99,-48.1,2023-02-02
+NZ-ORD-34,Product-9,Home Decor,Hamilton,826.14,133.55,2023-02-03
+NZ-ORD-35,Product-2,Electronics,Auckland,793.24,167.77,2023-02-04
+NZ-ORD-36,Product-22,Home Decor,Christchurch,481.32,376.0,2023-02-05
+NZ-ORD-37,Product-26,Home Decor,Hamilton,1222.2,149.44,2023-02-06
+NZ-ORD-38,Product-28,Clothing,Dunedin,1432.87,-57.29,2023-02-07
+NZ-ORD-39,Product-29,Electronics,Auckland,1958.79,-0.91,2023-02-08
+NZ-ORD-40,Product-15,Books,Auckland,576.75,409.03,2023-02-09
+NZ-ORD-41,Product-20,Electronics,Dunedin,1357.52,210.66,2023-02-10
+NZ-ORD-42,Product-4,Toys,Dunedin,531.25,330.56,2023-02-11
+NZ-ORD-43,Product-14,Toys,Auckland,1097.27,332.77,2023-02-12
+NZ-ORD-44,Product-5,Books,Auckland,1639.0,290.39,2023-02-13
+NZ-ORD-45,Product-5,Books,Wellington,1256.06,425.38,2023-02-14
+NZ-ORD-46,Product-29,Toys,Wellington,353.65,-58.9,2023-02-15
+NZ-ORD-47,Product-3,Clothing,Wellington,1534.52,105.36,2023-02-16
+NZ-ORD-48,Product-26,Toys,Hamilton,1970.79,146.54,2023-02-17
+NZ-ORD-49,Product-26,Clothing,Hamilton,136.91,259.07,2023-02-18
+NZ-ORD-50,Product-25,Books,Auckland,1762.82,400.76,2023-02-19
+NZ-ORD-51,Product-9,Clothing,Wellington,83.6,258.92,2023-02-20
+NZ-ORD-52,Product-28,Home Decor,Hamilton,890.18,436.72,2023-02-21
+NZ-ORD-53,Product-16,Home Decor,Christchurch,1243.11,203.39,2023-02-22
+NZ-ORD-54,Product-25,Toys,Christchurch,1358.1,-43.14,2023-02-23
+NZ-ORD-55,Product-16,Home Decor,Dunedin,869.48,167.61,2023-02-24
+NZ-ORD-56,Product-23,Books,Auckland,315.06,430.02,2023-02-25
+NZ-ORD-57,Product-5,Clothing,Wellington,406.7,64.81,2023-02-26
+NZ-ORD-58,Product-24,Electronics,Auckland,1770.33,415.51,2023-02-27
+NZ-ORD-59,Product-13,Toys,Hamilton,534.81,316.74,2023-02-28
+NZ-ORD-60,Product-28,Home Decor,Dunedin,877.85,119.81,2023-03-01
+NZ-ORD-61,Product-27,Electronics,Christchurch,699.85,106.84,2023-03-02
+NZ-ORD-62,Product-6,Electronics,Wellington,1770.53,66.9,2023-03-03
+NZ-ORD-63,Product-20,Electronics,Wellington,609.31,458.16,2023-03-04
+NZ-ORD-64,Product-10,Home Decor,Hamilton,818.65,434.97,2023-03-05
+NZ-ORD-65,Product-29,Electronics,Hamilton,422.96,385.39,2023-03-06
+NZ-ORD-66,Product-1,Electronics,Hamilton,1845.43,-41.76,2023-03-07
+NZ-ORD-67,Product-22,Toys,Dunedin,655.62,1.69,2023-03-08
+NZ-ORD-68,Product-14,Clothing,Wellington,930.88,434.55,2023-03-09
+NZ-ORD-69,Product-21,Home Decor,Christchurch,1026.31,379.66,2023-03-10
+NZ-ORD-70,Product-25,Toys,Dunedin,537.87,362.83,2023-03-11
+NZ-ORD-71,Product-11,Clothing,Hamilton,1983.15,441.39,2023-03-12
+NZ-ORD-72,Product-3,Books,Dunedin,1480.3,249.21,2023-03-13
+NZ-ORD-73,Product-24,Books,Christchurch,664.41,327.42,2023-03-14
+NZ-ORD-74,Product-15,Books,Dunedin,848.55,423.45,2023-03-15
+NZ-ORD-75,Product-3,Clothing,Christchurch,624.22,96.81,2023-03-16
+NZ-ORD-76,Product-19,Clothing,Wellington,65.0,1.29,2023-03-17
+NZ-ORD-77,Product-20,Clothing,Dunedin,943.62,475.92,2023-03-18
+NZ-ORD-78,Product-26,Toys,Dunedin,1565.39,78.24,2023-03-19
+NZ-ORD-79,Product-2,Home Decor,Hamilton,1738.05,265.86,2023-03-20
+NZ-ORD-80,Product-24,Books,Auckland,499.18,72.17,2023-03-21
+NZ-ORD-81,Product-23,Electronics,Wellington,486.64,191.17,2023-03-22
+NZ-ORD-82,Product-1,Toys,Christchurch,1598.85,227.17,2023-03-23
+NZ-ORD-83,Product-25,Toys,Auckland,1911.07,497.5,2023-03-24
+NZ-ORD-84,Product-28,Books,Christchurch,1481.26,181.91,2023-03-25
+NZ-ORD-85,Product-8,Clothing,Wellington,583.23,-29.37,2023-03-26
+NZ-ORD-86,Product-1,Electronics,Dunedin,84.07,99.2,2023-03-27
+NZ-ORD-87,Product-28,Clothing,Wellington,1368.66,33.33,2023-03-28
+NZ-ORD-88,Product-22,Electronics,Dunedin,216.85,467.65,2023-03-29
+NZ-ORD-89,Product-18,Home Decor,Hamilton,1826.54,-44.24,2023-03-30
+NZ-ORD-90,Product-16,Electronics,Hamilton,421.92,-55.0,2023-03-31
+NZ-ORD-91,Product-22,Toys,Christchurch,1951.56,-26.32,2023-04-01
+NZ-ORD-92,Product-25,Books,Hamilton,1605.88,-55.91,2023-04-02
+NZ-ORD-93,Product-25,Toys,Christchurch,1198.69,106.38,2023-04-03
+NZ-ORD-94,Product-3,Clothing,Christchurch,1914.79,214.68,2023-04-04
+NZ-ORD-95,Product-5,Toys,Hamilton,519.96,380.29,2023-04-05
+NZ-ORD-96,Product-27,Clothing,Christchurch,1986.9,356.46,2023-04-06
+NZ-ORD-97,Product-14,Toys,Christchurch,1689.72,442.66,2023-04-07
+NZ-ORD-98,Product-23,Books,Christchurch,1579.83,133.66,2023-04-08
+NZ-ORD-99,Product-21,Electronics,Auckland,891.91,151.13,2023-04-09
+NZ-ORD-100,Product-3,Clothing,Auckland,1076.32,-49.04,2023-04-10
+NZ-ORD-101,Product-4,Electronics,Christchurch,420.02,214.52,2023-04-11
+NZ-ORD-102,Product-9,Clothing,Hamilton,1424.52,-95.81,2023-04-12
+NZ-ORD-103,Product-18,Electronics,Dunedin,268.79,88.31,2023-04-13
+NZ-ORD-104,Product-8,Home Decor,Wellington,1635.78,-7.96,2023-04-14
+NZ-ORD-105,Product-20,Home Decor,Auckland,1627.58,128.86,2023-04-15
+NZ-ORD-106,Product-20,Clothing,Wellington,1271.38,200.32,2023-04-16
+NZ-ORD-107,Product-14,Books,Wellington,1290.59,-53.71,2023-04-17
+NZ-ORD-108,Product-8,Home Decor,Dunedin,555.6,66.12,2023-04-18
+NZ-ORD-109,Product-13,Clothing,Christchurch,294.76,245.32,2023-04-19
+NZ-ORD-110,Product-13,Toys,Wellington,1997.72,447.81,2023-04-20
+NZ-ORD-111,Product-11,Home Decor,Hamilton,1847.68,28.78,2023-04-21
+NZ-ORD-112,Product-5,Toys,Wellington,1840.79,155.38,2023-04-22
+NZ-ORD-113,Product-17,Electronics,Dunedin,61.13,390.94,2023-04-23
+NZ-ORD-114,Product-17,Toys,Wellington,1652.55,494.06,2023-04-24
+NZ-ORD-115,Product-18,Clothing,Hamilton,1453.01,400.87,2023-04-25
+NZ-ORD-116,Product-2,Books,Auckland,471.3,-88.74,2023-04-26
+NZ-ORD-117,Product-16,Toys,Wellington,911.36,7.4,2023-04-27
+NZ-ORD-118,Product-18,Home Decor,Christchurch,1541.18,259.38,2023-04-28
+NZ-ORD-119,Product-11,Toys,Wellington,378.4,371.96,2023-04-29
+NZ-ORD-120,Product-8,Books,Hamilton,1898.21,-78.51,2023-04-30
+NZ-ORD-121,Product-17,Home Decor,Dunedin,1354.96,25.02,2023-05-01
+NZ-ORD-122,Product-24,Home Decor,Dunedin,1917.61,20.75,2023-05-02
+NZ-ORD-123,Product-2,Toys,Auckland,510.84,89.74,2023-05-03
+NZ-ORD-124,Product-2,Toys,Wellington,886.32,-37.41,2023-05-04
+NZ-ORD-125,Product-23,Electronics,Dunedin,1685.93,-32.71,2023-05-05
+NZ-ORD-126,Product-24,Home Decor,Christchurch,461.78,8.93,2023-05-06
+NZ-ORD-127,Product-24,Clothing,Wellington,1333.6,111.22,2023-05-07
+NZ-ORD-128,Product-23,Electronics,Dunedin,960.73,448.18,2023-05-08
+NZ-ORD-129,Product-2,Home Decor,Dunedin,763.01,71.25,2023-05-09
+NZ-ORD-130,Product-27,Clothing,Hamilton,554.83,295.11,2023-05-10
+NZ-ORD-131,Product-5,Home Decor,Dunedin,1381.58,400.89,2023-05-11
+NZ-ORD-132,Product-28,Books,Wellington,575.7,-34.14,2023-05-12
+NZ-ORD-133,Product-4,Toys,Christchurch,193.01,-11.28,2023-05-13
+NZ-ORD-134,Product-6,Clothing,Dunedin,998.41,280.89,2023-05-14
+NZ-ORD-135,Product-13,Toys,Hamilton,1144.64,423.14,2023-05-15
+NZ-ORD-136,Product-17,Clothing,Dunedin,1712.5,180.62,2023-05-16
+NZ-ORD-137,Product-11,Toys,Christchurch,141.13,62.26,2023-05-17
+NZ-ORD-138,Product-16,Home Decor,Christchurch,92.33,-44.46,2023-05-18
+NZ-ORD-139,Product-26,Electronics,Dunedin,1485.48,221.14,2023-05-19
+NZ-ORD-140,Product-18,Clothing,Christchurch,986.12,23.3,2023-05-20
+NZ-ORD-141,Product-19,Clothing,Dunedin,1405.55,-34.37,2023-05-21
+NZ-ORD-142,Product-11,Home Decor,Christchurch,1180.65,-42.95,2023-05-22
+NZ-ORD-143,Product-16,Clothing,Dunedin,1230.42,-23.05,2023-05-23
+NZ-ORD-144,Product-13,Home Decor,Hamilton,1956.43,-33.65,2023-05-24
+NZ-ORD-145,Product-28,Clothing,Wellington,625.25,-35.21,2023-05-25
+NZ-ORD-146,Product-10,Electronics,Christchurch,1778.05,461.68,2023-05-26
+NZ-ORD-147,Product-6,Books,Wellington,1775.15,127.75,2023-05-27
+NZ-ORD-148,Product-14,Toys,Hamilton,1747.41,141.3,2023-05-28
+NZ-ORD-149,Product-7,Toys,Dunedin,60.22,417.53,2023-05-29
+NZ-ORD-150,Product-4,Toys,Hamilton,624.89,251.79,2023-05-30
+NZ-ORD-151,Product-7,Books,Dunedin,1242.21,227.06,2023-05-31
+NZ-ORD-152,Product-5,Books,Christchurch,865.07,326.58,2023-06-01
+NZ-ORD-153,Product-9,Clothing,Hamilton,121.28,451.53,2023-06-02
+NZ-ORD-154,Product-24,Clothing,Hamilton,1863.17,233.47,2023-06-03
+NZ-ORD-155,Product-10,Books,Dunedin,1907.11,423.63,2023-06-04
+NZ-ORD-156,Product-16,Clothing,Dunedin,1090.78,47.62,2023-06-05
+NZ-ORD-157,Product-27,Books,Auckland,1947.98,324.02,2023-06-06
+NZ-ORD-158,Product-7,Books,Christchurch,1159.58,211.64,2023-06-07
+NZ-ORD-159,Product-27,Electronics,Dunedin,1788.49,125.07,2023-06-08
+NZ-ORD-160,Product-17,Toys,Dunedin,606.08,246.42,2023-06-09
+NZ-ORD-161,Product-19,Toys,Wellington,63.87,277.32,2023-06-10
+NZ-ORD-162,Product-19,Electronics,Christchurch,77.76,50.72,2023-06-11
+NZ-ORD-163,Product-25,Books,Auckland,733.74,385.17,2023-06-12
+NZ-ORD-164,Product-3,Home Decor,Wellington,293.2,272.01,2023-06-13
+NZ-ORD-165,Product-10,Electronics,Christchurch,765.58,119.27,2023-06-14
+NZ-ORD-166,Product-25,Clothing,Christchurch,873.33,1.39,2023-06-15
+NZ-ORD-167,Product-12,Toys,Dunedin,91.79,88.23,2023-06-16
+NZ-ORD-168,Product-29,Home Decor,Auckland,1063.81,304.03,2023-06-17
+NZ-ORD-169,Product-14,Books,Hamilton,1652.28,235.82,2023-06-18
+NZ-ORD-170,Product-12,Home Decor,Auckland,695.55,140.75,2023-06-19
+NZ-ORD-171,Product-9,Toys,Christchurch,634.38,352.95,2023-06-20
+NZ-ORD-172,Product-8,Electronics,Dunedin,515.52,322.08,2023-06-21
+NZ-ORD-173,Product-18,Home Decor,Auckland,1076.78,289.57,2023-06-22
+NZ-ORD-174,Product-28,Home Decor,Hamilton,1838.54,40.63,2023-06-23
+NZ-ORD-175,Product-13,Electronics,Dunedin,403.79,447.26,2023-06-24
+NZ-ORD-176,Product-17,Home Decor,Christchurch,940.13,156.69,2023-06-25
+NZ-ORD-177,Product-8,Home Decor,Dunedin,429.28,96.11,2023-06-26
+NZ-ORD-178,Product-7,Electronics,Dunedin,1505.11,66.23,2023-06-27
+NZ-ORD-179,Product-21,Books,Christchurch,197.12,193.92,2023-06-28
+NZ-ORD-180,Product-18,Toys,Dunedin,1165.81,261.5,2023-06-29
+NZ-ORD-181,Product-18,Electronics,Wellington,33.39,-14.44,2023-06-30
+NZ-ORD-182,Product-25,Books,Dunedin,1471.36,131.92,2023-07-01
+NZ-ORD-183,Product-20,Electronics,Dunedin,1184.01,-51.36,2023-07-02
+NZ-ORD-184,Product-5,Clothing,Dunedin,1226.21,-60.26,2023-07-03
+NZ-ORD-185,Product-28,Books,Auckland,821.21,279.06,2023-07-04
+NZ-ORD-186,Product-3,Toys,Dunedin,1742.95,278.41,2023-07-05
+NZ-ORD-187,Product-19,Clothing,Hamilton,372.96,12.29,2023-07-06
+NZ-ORD-188,Product-28,Books,Auckland,1069.84,249.58,2023-07-07
+NZ-ORD-189,Product-9,Home Decor,Wellington,278.03,3.88,2023-07-08
+NZ-ORD-190,Product-7,Clothing,Auckland,93.49,-67.68,2023-07-09
+NZ-ORD-191,Product-21,Books,Hamilton,162.07,406.85,2023-07-10
+NZ-ORD-192,Product-18,Clothing,Dunedin,119.06,229.24,2023-07-11
+NZ-ORD-193,Product-20,Home Decor,Wellington,1713.19,330.31,2023-07-12
+NZ-ORD-194,Product-4,Home Decor,Christchurch,1584.09,-68.27,2023-07-13
+NZ-ORD-195,Product-16,Electronics,Hamilton,837.58,91.51,2023-07-14
+NZ-ORD-196,Product-27,Toys,Hamilton,634.42,312.3,2023-07-15
+NZ-ORD-197,Product-20,Books,Auckland,155.11,206.55,2023-07-16
+NZ-ORD-198,Product-28,Toys,Wellington,1843.22,399.86,2023-07-17
+NZ-ORD-199,Product-9,Home Decor,Christchurch,860.77,203.83,2023-07-18
+NZ-ORD-200,Product-6,Toys,Christchurch,1816.19,223.91,2023-07-19
+NZ-ORD-201,Product-11,Books,Dunedin,782.11,345.33,2023-07-20
+NZ-ORD-202,Product-17,Electronics,Dunedin,1301.83,41.03,2023-07-21
+NZ-ORD-203,Product-15,Home Decor,Dunedin,1912.1,240.63,2023-07-22
+NZ-ORD-204,Product-1,Books,Auckland,999.42,-56.48,2023-07-23
+NZ-ORD-205,Product-14,Toys,Wellington,1773.65,35.53,2023-07-24
+NZ-ORD-206,Product-25,Books,Christchurch,1253.04,290.54,2023-07-25
+NZ-ORD-207,Product-18,Toys,Auckland,1926.68,219.54,2023-07-26
+NZ-ORD-208,Product-9,Home Decor,Hamilton,392.13,299.73,2023-07-27
+NZ-ORD-209,Product-13,Clothing,Auckland,507.18,7.53,2023-07-28
+NZ-ORD-210,Product-25,Home Decor,Hamilton,1445.47,129.81,2023-07-29
+NZ-ORD-211,Product-1,Clothing,Hamilton,215.94,89.89,2023-07-30
+NZ-ORD-212,Product-23,Toys,Hamilton,1914.12,466.81,2023-07-31
+NZ-ORD-213,Product-29,Clothing,Christchurch,853.52,-71.65,2023-08-01
+NZ-ORD-214,Product-14,Toys,Auckland,197.65,383.85,2023-08-02
+NZ-ORD-215,Product-20,Books,Christchurch,1416.08,177.12,2023-08-03
+NZ-ORD-216,Product-4,Toys,Dunedin,1021.08,-58.31,2023-08-04
+NZ-ORD-217,Product-22,Electronics,Dunedin,92.63,425.18,2023-08-05
+NZ-ORD-218,Product-4,Clothing,Christchurch,187.11,449.25,2023-08-06
+NZ-ORD-219,Product-15,Clothing,Dunedin,1985.21,353.38,2023-08-07
+NZ-ORD-220,Product-6,Electronics,Christchurch,1860.09,214.51,2023-08-08
+NZ-ORD-221,Product-1,Electronics,Wellington,764.85,426.36,2023-08-09
+NZ-ORD-222,Product-28,Home Decor,Wellington,499.24,445.08,2023-08-10
+NZ-ORD-223,Product-19,Home Decor,Auckland,377.06,-29.76,2023-08-11
+NZ-ORD-224,Product-23,Home Decor,Auckland,490.59,417.75,2023-08-12
+NZ-ORD-225,Product-10,Toys,Christchurch,1068.55,262.57,2023-08-13
+NZ-ORD-226,Product-3,Electronics,Dunedin,851.96,122.46,2023-08-14
+NZ-ORD-227,Product-3,Toys,Dunedin,1353.64,23.9,2023-08-15
+NZ-ORD-228,Product-30,Clothing,Auckland,1342.05,280.34,2023-08-16
+NZ-ORD-229,Product-14,Books,Wellington,708.22,-32.52,2023-08-17
+NZ-ORD-230,Product-23,Home Decor,Dunedin,1590.52,219.35,2023-08-18
+NZ-ORD-231,Product-18,Home Decor,Dunedin,123.13,272.52,2023-08-19
+NZ-ORD-232,Product-5,Home Decor,Wellington,182.17,190.29,2023-08-20
+NZ-ORD-233,Product-19,Toys,Christchurch,801.3,450.24,2023-08-21
+NZ-ORD-234,Product-20,Home Decor,Hamilton,1522.91,-79.97,2023-08-22
+NZ-ORD-235,Product-12,Toys,Christchurch,1240.05,-82.93,2023-08-23
+NZ-ORD-236,Product-2,Clothing,Dunedin,1028.46,341.9,2023-08-24
+NZ-ORD-237,Product-10,Books,Wellington,1884.09,459.69,2023-08-25
+NZ-ORD-238,Product-1,Clothing,Christchurch,428.02,-14.48,2023-08-26
+NZ-ORD-239,Product-13,Books,Wellington,344.42,86.93,2023-08-27
+NZ-ORD-240,Product-22,Electronics,Auckland,74.12,285.99,2023-08-28
+NZ-ORD-241,Product-26,Clothing,Auckland,962.49,228.51,2023-08-29
+NZ-ORD-242,Product-20,Clothing,Christchurch,925.18,372.92,2023-08-30
+NZ-ORD-243,Product-25,Books,Dunedin,67.82,420.14,2023-08-31
+NZ-ORD-244,Product-12,Home Decor,Auckland,587.8,234.69,2023-09-01
+NZ-ORD-245,Product-27,Books,Christchurch,1207.14,100.75,2023-09-02
+NZ-ORD-246,Product-16,Clothing,Christchurch,976.39,495.95,2023-09-03
+NZ-ORD-247,Product-18,Clothing,Dunedin,1462.25,388.56,2023-09-04
+NZ-ORD-248,Product-27,Toys,Wellington,610.02,190.38,2023-09-05
+NZ-ORD-249,Product-10,Electronics,Hamilton,599.1,429.53,2023-09-06
+NZ-ORD-250,Product-25,Toys,Christchurch,780.6,466.35,2023-09-07
+NZ-ORD-251,Product-6,Clothing,Hamilton,1694.22,11.02,2023-09-08
+NZ-ORD-252,Product-5,Clothing,Hamilton,1816.78,216.94,2023-09-09
+NZ-ORD-253,Product-29,Home Decor,Wellington,975.69,491.4,2023-09-10
+NZ-ORD-254,Product-7,Electronics,Christchurch,50.72,-19.68,2023-09-11
+NZ-ORD-255,Product-4,Home Decor,Wellington,714.09,221.96,2023-09-12
+NZ-ORD-256,Product-29,Home Decor,Auckland,1654.73,272.1,2023-09-13
+NZ-ORD-257,Product-30,Toys,Hamilton,1108.1,267.68,2023-09-14
+NZ-ORD-258,Product-18,Clothing,Christchurch,1358.57,261.5,2023-09-15
+NZ-ORD-259,Product-22,Toys,Hamilton,193.43,190.63,2023-09-16
+NZ-ORD-260,Product-19,Books,Christchurch,29.74,125.66,2023-09-17
+NZ-ORD-261,Product-1,Clothing,Auckland,990.29,-84.93,2023-09-18
+NZ-ORD-262,Product-6,Clothing,Auckland,962.55,45.97,2023-09-19
+NZ-ORD-263,Product-12,Electronics,Wellington,953.13,20.04,2023-09-20
+NZ-ORD-264,Product-2,Home Decor,Dunedin,1840.18,485.83,2023-09-21
+NZ-ORD-265,Product-6,Home Decor,Hamilton,459.22,165.76,2023-09-22
+NZ-ORD-266,Product-27,Clothing,Auckland,953.07,-79.97,2023-09-23
+NZ-ORD-267,Product-19,Home Decor,Dunedin,1285.13,352.51,2023-09-24
+NZ-ORD-268,Product-6,Toys,Auckland,1722.02,-59.36,2023-09-25
+NZ-ORD-269,Product-25,Books,Christchurch,785.14,211.04,2023-09-26
+NZ-ORD-270,Product-9,Electronics,Hamilton,1223.5,59.42,2023-09-27
+NZ-ORD-271,Product-2,Home Decor,Hamilton,952.87,395.77,2023-09-28
+NZ-ORD-272,Product-30,Electronics,Christchurch,1480.91,307.42,2023-09-29
+NZ-ORD-273,Product-26,Toys,Auckland,168.77,252.51,2023-09-30
+NZ-ORD-274,Product-13,Clothing,Hamilton,1814.94,348.92,2023-10-01
+NZ-ORD-275,Product-8,Books,Wellington,1523.52,468.72,2023-10-02
+NZ-ORD-276,Product-13,Clothing,Wellington,146.87,273.54,2023-10-03
+NZ-ORD-277,Product-29,Clothing,Wellington,798.57,394.34,2023-10-04
+NZ-ORD-278,Product-8,Electronics,Christchurch,1068.73,430.31,2023-10-05
+NZ-ORD-279,Product-10,Clothing,Auckland,520.07,348.24,2023-10-06
+NZ-ORD-280,Product-7,Books,Auckland,421.22,378.78,2023-10-07
+NZ-ORD-281,Product-6,Electronics,Dunedin,922.14,-95.83,2023-10-08
+NZ-ORD-282,Product-9,Home Decor,Dunedin,1567.81,86.55,2023-10-09
+NZ-ORD-283,Product-20,Toys,Auckland,1075.87,320.4,2023-10-10
+NZ-ORD-284,Product-3,Home Decor,Hamilton,916.32,127.01,2023-10-11
+NZ-ORD-285,Product-12,Electronics,Dunedin,892.22,384.21,2023-10-12
+NZ-ORD-286,Product-12,Books,Christchurch,1558.94,413.85,2023-10-13
+NZ-ORD-287,Product-24,Electronics,Wellington,1247.16,218.15,2023-10-14
+NZ-ORD-288,Product-8,Books,Wellington,1381.62,300.65,2023-10-15
+NZ-ORD-289,Product-7,Clothing,Hamilton,304.41,-66.32,2023-10-16
+NZ-ORD-290,Product-26,Books,Dunedin,1836.32,92.52,2023-10-17
+NZ-ORD-291,Product-8,Toys,Wellington,245.34,139.38,2023-10-18
+NZ-ORD-292,Product-18,Clothing,Christchurch,1852.74,-87.37,2023-10-19
+NZ-ORD-293,Product-20,Toys,Dunedin,632.93,34.36,2023-10-20
+NZ-ORD-294,Product-23,Clothing,Christchurch,1577.1,193.35,2023-10-21
+NZ-ORD-295,Product-5,Toys,Wellington,1316.77,462.02,2023-10-22
+NZ-ORD-296,Product-3,Electronics,Wellington,1717.83,26.81,2023-10-23
+NZ-ORD-297,Product-27,Home Decor,Auckland,1595.21,291.05,2023-10-24
+NZ-ORD-298,Product-15,Toys,Hamilton,1327.73,146.93,2023-10-25
+NZ-ORD-299,Product-29,Toys,Auckland,1509.57,243.09,2023-10-26
+NZ-ORD-300,Product-23,Home Decor,Dunedin,386.16,226.23,2023-10-27
+NZ-ORD-301,Product-6,Electronics,Dunedin,137.37,70.05,2023-10-28
+NZ-ORD-302,Product-18,Electronics,Christchurch,1940.32,262.19,2023-10-29
+NZ-ORD-303,Product-16,Books,Christchurch,1568.47,67.39,2023-10-30
+NZ-ORD-304,Product-28,Books,Wellington,345.3,157.92,2023-10-31
+NZ-ORD-305,Product-6,Clothing,Christchurch,1097.24,191.84,2023-11-01
+NZ-ORD-306,Product-1,Electronics,Christchurch,839.9,174.09,2023-11-02
+NZ-ORD-307,Product-26,Clothing,Hamilton,542.81,489.94,2023-11-03
+NZ-ORD-308,Product-17,Electronics,Dunedin,603.63,238.17,2023-11-04
+NZ-ORD-309,Product-6,Clothing,Wellington,1269.28,-43.34,2023-11-05
+NZ-ORD-310,Product-28,Books,Wellington,811.26,279.88,2023-11-06
+NZ-ORD-311,Product-26,Home Decor,Dunedin,508.34,171.71,2023-11-07
+NZ-ORD-312,Product-8,Toys,Hamilton,704.49,39.53,2023-11-08
+NZ-ORD-313,Product-3,Clothing,Dunedin,296.39,-90.49,2023-11-09
+NZ-ORD-314,Product-23,Home Decor,Wellington,809.91,106.97,2023-11-10
+NZ-ORD-315,Product-27,Books,Dunedin,1963.72,180.88,2023-11-11
+NZ-ORD-316,Product-30,Books,Auckland,671.46,337.36,2023-11-12
+NZ-ORD-317,Product-15,Toys,Hamilton,1486.57,11.17,2023-11-13
+NZ-ORD-318,Product-28,Home Decor,Dunedin,589.65,485.94,2023-11-14
+NZ-ORD-319,Product-20,Home Decor,Christchurch,233.02,115.4,2023-11-15
+NZ-ORD-320,Product-11,Electronics,Christchurch,107.14,88.57,2023-11-16
+NZ-ORD-321,Product-17,Home Decor,Hamilton,989.52,464.87,2023-11-17
+NZ-ORD-322,Product-2,Books,Auckland,648.64,267.55,2023-11-18
+NZ-ORD-323,Product-23,Toys,Dunedin,938.56,10.75,2023-11-19
+NZ-ORD-324,Product-30,Electronics,Christchurch,1707.66,132.24,2023-11-20
+NZ-ORD-325,Product-18,Clothing,Dunedin,1871.12,411.75,2023-11-21
+NZ-ORD-326,Product-2,Home Decor,Christchurch,1000.79,-21.1,2023-11-22
+NZ-ORD-327,Product-14,Toys,Dunedin,1192.13,276.83,2023-11-23
+NZ-ORD-328,Product-10,Electronics,Dunedin,1036.0,473.36,2023-11-24
+NZ-ORD-329,Product-16,Home Decor,Wellington,650.92,11.47,2023-11-25
+NZ-ORD-330,Product-2,Electronics,Christchurch,784.42,400.62,2023-11-26
+NZ-ORD-331,Product-16,Home Decor,Dunedin,1351.97,285.7,2023-11-27
+NZ-ORD-332,Product-7,Home Decor,Wellington,1570.56,81.76,2023-11-28
+NZ-ORD-333,Product-19,Books,Auckland,539.12,42.75,2023-11-29
+NZ-ORD-334,Product-11,Electronics,Wellington,1291.88,473.52,2023-11-30
+NZ-ORD-335,Product-26,Toys,Hamilton,970.18,371.38,2023-12-01
+NZ-ORD-336,Product-24,Electronics,Dunedin,1449.13,44.72,2023-12-02
+NZ-ORD-337,Product-16,Toys,Wellington,1575.87,117.16,2023-12-03
+NZ-ORD-338,Product-19,Books,Christchurch,1021.15,371.68,2023-12-04
+NZ-ORD-339,Product-9,Toys,Christchurch,1332.97,-98.62,2023-12-05
+NZ-ORD-340,Product-18,Toys,Wellington,844.31,102.99,2023-12-06
+NZ-ORD-341,Product-24,Clothing,Auckland,724.58,408.55,2023-12-07
+NZ-ORD-342,Product-1,Toys,Auckland,1861.0,-52.08,2023-12-08
+NZ-ORD-343,Product-23,Clothing,Hamilton,1098.57,201.38,2023-12-09
+NZ-ORD-344,Product-29,Toys,Auckland,1023.98,275.17,2023-12-10
+NZ-ORD-345,Product-18,Home Decor,Auckland,566.62,28.56,2023-12-11
+NZ-ORD-346,Product-24,Books,Wellington,1869.41,424.76,2023-12-12
+NZ-ORD-347,Product-5,Books,Hamilton,1868.34,87.13,2023-12-13
+NZ-ORD-348,Product-3,Home Decor,Auckland,1709.66,12.87,2023-12-14
+NZ-ORD-349,Product-22,Clothing,Auckland,1765.52,172.2,2023-12-15
+NZ-ORD-350,Product-16,Toys,Dunedin,1935.62,449.46,2023-12-16
+NZ-ORD-351,Product-13,Electronics,Christchurch,1928.31,34.88,2023-12-17
+NZ-ORD-352,Product-8,Home Decor,Hamilton,674.2,77.67,2023-12-18
+NZ-ORD-353,Product-18,Clothing,Christchurch,592.16,363.48,2023-12-19
+NZ-ORD-354,Product-4,Clothing,Christchurch,1530.49,290.07,2023-12-20
+NZ-ORD-355,Product-21,Books,Wellington,141.05,433.96,2023-12-21
+NZ-ORD-356,Product-5,Books,Christchurch,1158.57,293.27,2023-12-22
+NZ-ORD-357,Product-25,Toys,Wellington,385.37,77.84,2023-12-23
+NZ-ORD-358,Product-2,Clothing,Hamilton,369.63,-51.09,2023-12-24
+NZ-ORD-359,Product-4,Electronics,Christchurch,397.56,-10.25,2023-12-25
+NZ-ORD-360,Product-10,Clothing,Dunedin,1446.61,369.48,2023-12-26
+NZ-ORD-361,Product-27,Electronics,Hamilton,1956.65,-17.23,2023-12-27
+NZ-ORD-362,Product-26,Home Decor,Christchurch,1500.76,381.12,2023-12-28
+NZ-ORD-363,Product-12,Books,Auckland,1974.66,313.79,2023-12-29
+NZ-ORD-364,Product-4,Books,Wellington,163.27,-5.92,2023-12-30
+NZ-ORD-365,Product-28,Clothing,Dunedin,1385.88,428.62,2023-12-31
+NZ-ORD-366,Product-28,Toys,Christchurch,962.46,-39.45,2024-01-01
+NZ-ORD-367,Product-11,Toys,Auckland,1130.89,-40.72,2024-01-02
+NZ-ORD-368,Product-22,Books,Hamilton,1255.12,439.6,2024-01-03
+NZ-ORD-369,Product-24,Electronics,Wellington,1000.54,427.39,2024-01-04
+NZ-ORD-370,Product-11,Clothing,Hamilton,1087.54,-57.43,2024-01-05
+NZ-ORD-371,Product-12,Clothing,Wellington,1593.33,41.66,2024-01-06
+NZ-ORD-372,Product-18,Electronics,Christchurch,1405.87,278.15,2024-01-07
+NZ-ORD-373,Product-13,Clothing,Auckland,637.44,85.48,2024-01-08
+NZ-ORD-374,Product-9,Clothing,Dunedin,1172.14,182.25,2024-01-09
+NZ-ORD-375,Product-26,Clothing,Christchurch,1374.04,-26.09,2024-01-10
+NZ-ORD-376,Product-8,Electronics,Hamilton,861.74,-71.24,2024-01-11
+NZ-ORD-377,Product-19,Toys,Hamilton,163.44,252.74,2024-01-12
+NZ-ORD-378,Product-14,Toys,Christchurch,1677.77,21.16,2024-01-13
+NZ-ORD-379,Product-2,Clothing,Wellington,1542.5,162.54,2024-01-14
+NZ-ORD-380,Product-5,Toys,Auckland,1887.87,-84.74,2024-01-15
+NZ-ORD-381,Product-10,Books,Dunedin,271.67,181.64,2024-01-16
+NZ-ORD-382,Product-19,Toys,Christchurch,1296.85,34.35,2024-01-17
+NZ-ORD-383,Product-13,Electronics,Wellington,338.32,41.74,2024-01-18
+NZ-ORD-384,Product-9,Toys,Dunedin,832.16,230.09,2024-01-19
+NZ-ORD-385,Product-2,Books,Christchurch,1930.03,260.33,2024-01-20
+NZ-ORD-386,Product-26,Clothing,Wellington,1937.89,248.59,2024-01-21
+NZ-ORD-387,Product-28,Home Decor,Wellington,315.14,273.61,2024-01-22
+NZ-ORD-388,Product-16,Books,Wellington,1276.78,-49.84,2024-01-23
+NZ-ORD-389,Product-19,Books,Christchurch,360.67,-49.95,2024-01-24
+NZ-ORD-390,Product-3,Clothing,Wellington,1859.11,-71.66,2024-01-25
+NZ-ORD-391,Product-23,Home Decor,Christchurch,1952.91,155.19,2024-01-26
+NZ-ORD-392,Product-2,Books,Auckland,1455.73,484.31,2024-01-27
+NZ-ORD-393,Product-27,Home Decor,Christchurch,173.73,477.21,2024-01-28
+NZ-ORD-394,Product-4,Electronics,Dunedin,821.15,174.4,2024-01-29
+NZ-ORD-395,Product-23,Electronics,Auckland,1086.89,-60.74,2024-01-30
+NZ-ORD-396,Product-26,Books,Dunedin,1540.07,194.59,2024-01-31
+NZ-ORD-397,Product-9,Clothing,Hamilton,1529.64,-29.01,2024-02-01
+NZ-ORD-398,Product-30,Clothing,Hamilton,1614.71,235.28,2024-02-02
+NZ-ORD-399,Product-30,Clothing,Hamilton,1124.82,442.17,2024-02-03
+NZ-ORD-400,Product-21,Toys,Hamilton,158.39,136.09,2024-02-04
+NZ-ORD-401,Product-23,Electronics,Dunedin,1073.88,-69.91,2024-02-05
+NZ-ORD-402,Product-23,Books,Dunedin,634.29,93.45,2024-02-06
+NZ-ORD-403,Product-9,Electronics,Hamilton,278.15,416.94,2024-02-07
+NZ-ORD-404,Product-28,Clothing,Christchurch,1358.7,324.07,2024-02-08
+NZ-ORD-405,Product-26,Home Decor,Wellington,1759.53,289.87,2024-02-09
+NZ-ORD-406,Product-10,Electronics,Auckland,1104.42,322.7,2024-02-10
+NZ-ORD-407,Product-7,Clothing,Dunedin,400.46,387.52,2024-02-11
+NZ-ORD-408,Product-7,Electronics,Hamilton,630.23,425.8,2024-02-12
+NZ-ORD-409,Product-15,Clothing,Auckland,1694.22,220.96,2024-02-13
+NZ-ORD-410,Product-21,Toys,Wellington,1214.63,361.23,2024-02-14
+NZ-ORD-411,Product-5,Books,Hamilton,1629.92,108.9,2024-02-15
+NZ-ORD-412,Product-21,Toys,Auckland,403.66,12.44,2024-02-16
+NZ-ORD-413,Product-20,Electronics,Auckland,1441.89,164.34,2024-02-17
+NZ-ORD-414,Product-5,Clothing,Auckland,73.39,92.83,2024-02-18
+NZ-ORD-415,Product-29,Home Decor,Christchurch,600.43,270.19,2024-02-19
+NZ-ORD-416,Product-17,Home Decor,Auckland,136.59,8.76,2024-02-20
+NZ-ORD-417,Product-24,Toys,Auckland,821.61,-5.03,2024-02-21
+NZ-ORD-418,Product-18,Clothing,Wellington,1935.43,74.35,2024-02-22
+NZ-ORD-419,Product-13,Home Decor,Auckland,1661.5,492.2,2024-02-23
+NZ-ORD-420,Product-21,Home Decor,Christchurch,580.7,130.83,2024-02-24
+NZ-ORD-421,Product-19,Books,Hamilton,543.89,246.73,2024-02-25
+NZ-ORD-422,Product-24,Clothing,Hamilton,1898.23,274.86,2024-02-26
+NZ-ORD-423,Product-25,Clothing,Auckland,486.38,212.56,2024-02-27
+NZ-ORD-424,Product-10,Clothing,Auckland,1665.11,61.6,2024-02-28
+NZ-ORD-425,Product-9,Electronics,Christchurch,720.93,203.94,2024-02-29
+NZ-ORD-426,Product-10,Toys,Dunedin,583.76,318.05,2024-03-01
+NZ-ORD-427,Product-6,Electronics,Christchurch,1559.36,365.06,2024-03-02
+NZ-ORD-428,Product-5,Electronics,Auckland,770.15,423.17,2024-03-03
+NZ-ORD-429,Product-15,Clothing,Wellington,1309.89,362.22,2024-03-04
+NZ-ORD-430,Product-3,Home Decor,Hamilton,412.02,451.29,2024-03-05
+NZ-ORD-431,Product-14,Clothing,Dunedin,295.28,237.28,2024-03-06
+NZ-ORD-432,Product-11,Electronics,Auckland,551.72,387.54,2024-03-07
+NZ-ORD-433,Product-17,Clothing,Wellington,887.82,301.73,2024-03-08
+NZ-ORD-434,Product-21,Home Decor,Hamilton,869.93,78.47,2024-03-09
+NZ-ORD-435,Product-12,Electronics,Christchurch,616.34,141.19,2024-03-10
+NZ-ORD-436,Product-19,Clothing,Dunedin,1221.54,306.65,2024-03-11
+NZ-ORD-437,Product-5,Home Decor,Wellington,525.67,-6.2,2024-03-12
+NZ-ORD-438,Product-21,Toys,Christchurch,1077.05,47.09,2024-03-13
+NZ-ORD-439,Product-23,Toys,Wellington,519.83,-53.71,2024-03-14
+NZ-ORD-440,Product-5,Clothing,Christchurch,1135.47,466.97,2024-03-15
+NZ-ORD-441,Product-29,Electronics,Auckland,265.8,460.45,2024-03-16
+NZ-ORD-442,Product-3,Toys,Dunedin,1206.86,-97.17,2024-03-17
+NZ-ORD-443,Product-12,Electronics,Dunedin,336.9,87.61,2024-03-18
+NZ-ORD-444,Product-24,Books,Hamilton,483.08,368.12,2024-03-19
+NZ-ORD-445,Product-9,Toys,Dunedin,354.74,301.1,2024-03-20
+NZ-ORD-446,Product-29,Home Decor,Wellington,150.88,454.13,2024-03-21
+NZ-ORD-447,Product-21,Clothing,Dunedin,144.94,185.64,2024-03-22
+NZ-ORD-448,Product-30,Clothing,Hamilton,1806.99,421.04,2024-03-23
+NZ-ORD-449,Product-14,Books,Auckland,1501.84,365.17,2024-03-24
+NZ-ORD-450,Product-13,Clothing,Auckland,685.81,375.85,2024-03-25
+NZ-ORD-451,Product-30,Toys,Auckland,641.11,276.94,2024-03-26
+NZ-ORD-452,Product-17,Electronics,Wellington,1637.11,248.45,2024-03-27
+NZ-ORD-453,Product-22,Home Decor,Wellington,1738.44,33.95,2024-03-28
+NZ-ORD-454,Product-27,Books,Dunedin,1113.08,-42.29,2024-03-29
+NZ-ORD-455,Product-8,Clothing,Christchurch,1105.38,370.63,2024-03-30
+NZ-ORD-456,Product-19,Home Decor,Hamilton,1688.77,-62.65,2024-03-31
+NZ-ORD-457,Product-10,Home Decor,Dunedin,1609.65,396.74,2024-04-01
+NZ-ORD-458,Product-18,Books,Dunedin,1390.17,-54.02,2024-04-02
+NZ-ORD-459,Product-2,Home Decor,Auckland,1389.59,57.87,2024-04-03
+NZ-ORD-460,Product-3,Books,Auckland,1690.84,442.11,2024-04-04
+NZ-ORD-461,Product-25,Electronics,Auckland,1114.5,229.12,2024-04-05
+NZ-ORD-462,Product-25,Clothing,Dunedin,163.13,13.81,2024-04-06
+NZ-ORD-463,Product-8,Clothing,Auckland,517.73,328.42,2024-04-07
+NZ-ORD-464,Product-21,Clothing,Dunedin,571.7,403.71,2024-04-08
+NZ-ORD-465,Product-28,Toys,Hamilton,1732.48,291.38,2024-04-09
+NZ-ORD-466,Product-8,Clothing,Hamilton,1885.54,401.31,2024-04-10
+NZ-ORD-467,Product-22,Books,Wellington,577.71,108.01,2024-04-11
+NZ-ORD-468,Product-27,Clothing,Auckland,1257.55,-21.01,2024-04-12
+NZ-ORD-469,Product-10,Home Decor,Christchurch,578.48,361.65,2024-04-13
+NZ-ORD-470,Product-21,Electronics,Christchurch,64.34,-85.3,2024-04-14
+NZ-ORD-471,Product-29,Books,Wellington,1478.59,474.6,2024-04-15
+NZ-ORD-472,Product-22,Toys,Christchurch,746.94,48.24,2024-04-16
+NZ-ORD-473,Product-10,Electronics,Hamilton,1994.91,-74.88,2024-04-17
+NZ-ORD-474,Product-4,Electronics,Christchurch,126.59,265.52,2024-04-18
+NZ-ORD-475,Product-19,Electronics,Hamilton,512.29,409.93,2024-04-19
+NZ-ORD-476,Product-20,Clothing,Dunedin,1359.94,183.48,2024-04-20
+NZ-ORD-477,Product-4,Home Decor,Auckland,1016.41,-44.88,2024-04-21
+NZ-ORD-478,Product-29,Toys,Christchurch,451.54,381.05,2024-04-22
+NZ-ORD-479,Product-9,Books,Hamilton,419.96,365.47,2024-04-23
+NZ-ORD-480,Product-7,Home Decor,Auckland,726.59,-20.0,2024-04-24
+NZ-ORD-481,Product-16,Home Decor,Christchurch,709.4,-16.06,2024-04-25
+NZ-ORD-482,Product-13,Books,Dunedin,1194.81,343.64,2024-04-26
+NZ-ORD-483,Product-21,Home Decor,Auckland,1235.73,125.69,2024-04-27
+NZ-ORD-484,Product-22,Clothing,Auckland,600.26,-45.17,2024-04-28
+NZ-ORD-485,Product-25,Home Decor,Wellington,1344.72,100.28,2024-04-29
+NZ-ORD-486,Product-17,Electronics,Auckland,1203.42,33.19,2024-04-30
+NZ-ORD-487,Product-8,Clothing,Hamilton,165.29,241.86,2024-05-01
+NZ-ORD-488,Product-18,Electronics,Hamilton,1322.09,104.79,2024-05-02
+NZ-ORD-489,Product-22,Home Decor,Dunedin,152.41,250.51,2024-05-03
+NZ-ORD-490,Product-13,Toys,Hamilton,507.69,12.16,2024-05-04
+NZ-ORD-491,Product-2,Home Decor,Christchurch,1622.96,122.55,2024-05-05
+NZ-ORD-492,Product-25,Toys,Auckland,1294.68,202.68,2024-05-06
+NZ-ORD-493,Product-27,Home Decor,Hamilton,156.29,122.65,2024-05-07
+NZ-ORD-494,Product-14,Toys,Hamilton,612.61,443.44,2024-05-08
+NZ-ORD-495,Product-10,Home Decor,Wellington,371.14,404.08,2024-05-09
+NZ-ORD-496,Product-13,Clothing,Hamilton,1517.49,362.65,2024-05-10
+NZ-ORD-497,Product-1,Books,Dunedin,1035.73,98.15,2024-05-11
+NZ-ORD-498,Product-2,Toys,Auckland,1197.18,170.75,2024-05-12
+NZ-ORD-499,Product-24,Books,Wellington,476.29,141.35,2024-05-13
