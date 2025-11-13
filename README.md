@@ -37,7 +37,8 @@ A complete end-to-end analytics project using SQL Server for data processing and
 - Import_dataset.sql — Data import script
 - Analysis_Queries.sql — Main analysis queries
 - Final_Dashboard.pdf — Power BI dashboard
-- Top_20_Analytical_SQL_Queries_NZ_Sales_Project.pdf — Analytical query reference
+- Project_thumbnail.png - Thumbnail
+- Project_banner.png - Banner
 - README.md — Project documentation
 
 ## Author
