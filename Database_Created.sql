@@ -1,0 +1,3 @@
+create database New_Zealand_Sales_and_Profit_Dataset
+
+use New_Zealand_Sales_and_Profit_Dataset;
