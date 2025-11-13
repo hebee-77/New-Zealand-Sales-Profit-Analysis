@@ -26,6 +26,9 @@ A complete end-to-end analytics project using SQL Server for data processing and
 - Sales spike in late Q4
 - Several products show high sales but poor profitability → Optimization opportunities
 
+## Dashboard Preview
+<img width="1426" height="840" alt="Screenshot 2025-11-13 220550" src="https://github.com/user-attachments/assets/c5da63d5-b6e8-40a8-bd0a-cf547e8ff3e9" />
+
 ## Files Included
 - Database_Created.sql — Database & table creation scripts
 - Import_dataset.sql — Data import script
