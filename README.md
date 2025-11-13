@@ -28,6 +28,9 @@ A complete end-to-end analytics project using SQL Server for data processing and
 
 ## Dashboard Preview
 <img width="1426" height="840" alt="Screenshot 2025-11-13 220550" src="https://github.com/user-attachments/assets/c5da63d5-b6e8-40a8-bd0a-cf547e8ff3e9" />
+<img width="1436" height="832" alt="Screenshot 2025-11-13 220722" src="https://github.com/user-attachments/assets/16f6efd1-225f-40b5-a4e3-1ae6cb47d5dd" />
+<img width="1434" height="811" alt="Screenshot 2025-11-13 220800" src="https://github.com/user-attachments/assets/24052c6c-50f4-4d8d-8fee-44672cfdb5cf" />
+<img width="1437" height="838" alt="Screenshot 2025-11-13 220902" src="https://github.com/user-attachments/assets/de4e48eb-b5ac-4f0e-bdcf-89706a73be31" />
 
 ## Files Included
 - Database_Created.sql — Database & table creation scripts
