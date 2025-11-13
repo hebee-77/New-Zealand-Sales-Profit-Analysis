@@ -19,6 +19,12 @@ A complete end-to-end analytics project using SQL Server for data processing and
 - Power BI
 - CSV / Excel
 - GitHub
+## Key Insights
+- Auckland and Wellington drive the strongest revenue
+- Home Decor stands out as a high-profit category
+- Toys generate strong sales but relatively weak margins
+- Sales spike in late Q4
+- Several products show high sales but poor profitability → Optimization opportunities
 
 ## Files Included
 - Database_Created.sql — Database & table creation scripts
@@ -29,5 +35,5 @@ A complete end-to-end analytics project using SQL Server for data processing and
 - README.md — Project documentation
 
 ## Author
-Your Name
+E Hebee
 Data Analyst | SQL | Power BI | Data Visualization
