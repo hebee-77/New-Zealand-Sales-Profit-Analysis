@@ -21,7 +21,7 @@ A complete end-to-end analytics project using SQL Server for data processing and
 - GitHub
 ## Key Insights
 - Auckland and Wellington drive the strongest revenue
-- Home Decor stands out as a high-profit category
+- Clothing stands out as a high-profit category
 - Toys generate strong sales but relatively weak margins
 - Sales spike in late Q4
 - Several products show high sales but poor profitability → Optimization opportunities
